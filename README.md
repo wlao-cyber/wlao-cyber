@@ -8,4 +8,4 @@
 </ul>
 
 ### Connect with me:
-[Linkedin](https://www.linkedin.com/in/wilson-l-b31a04140/)
+<a href="https://www.linkedin.com/in/wilson-l-b31a04140/" target="_blank">Linkedin</a>
