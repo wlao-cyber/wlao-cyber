@@ -4,7 +4,7 @@
 <ul>
 <li>I’m interested in Cybersecurity.</li>
 <li>I’m constantly learning more about web development, security, cloud computing, and Python.</li>
-<li>I’m looking to collaborate on security-related projects.</li>
+<li>I’m looking to collaborate on web development and security-related projects.</li>
 </ul>
 
 ### Connect with me:
