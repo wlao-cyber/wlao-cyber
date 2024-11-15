@@ -6,4 +6,4 @@
 </ul>
 
 ### Connect with me:
-[Linkedin](https://www.linkedin.com/in/wilson-l-b31a04140)
+[Linkedin](https://www.linkedin.com/in/wilsonlaocyber)
